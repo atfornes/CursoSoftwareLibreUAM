@@ -1,0 +1,3 @@
+- Participó en [[Creative Commons]]
+- También en [[Reddit]]
+-

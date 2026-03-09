@@ -1,1 +1,3 @@
+- LATER Subir al repositorio los cambios
+- LATER Contactar con [[Ángel]]
 -

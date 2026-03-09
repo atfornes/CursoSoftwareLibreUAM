@@ -1,0 +1,14 @@
+- El mejor servicio es ....
+-
+- texto en _cursiva_
+-
+- [Aaron](https://es.wikipedia.org/wiki/Aaron_Swartz)
+-
+- [Aaron](https://es.wikipedia.org/wiki/Aaron_Swartz)
+-
+- [Aaron](https://es.wikipedia.org/wiki/Aaron_Swartz)
+-
+-
+-
+- _Aaron Hillel Swartz \(Chicago, 8 de noviembre de 1986-Nueva York, 11 de enero de 2013\),\[1\]​ conocido como Aaron Swartz, fue un programador, emprendedor, escritor, activista político y hacktivista de Internet. Estuvo involucrado en el desarrollo del formato de fuente web RSS,\[2\]​ el formato de publicación Markdown,\[3\]​ la organización Creative Commons,\[4\]​ la infraestructura del framework "web.py"\[5\]​ y el sitio web de marcadores sociales Reddit_ - [Aaron Swartz - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Aaron_Swartz)
+-
