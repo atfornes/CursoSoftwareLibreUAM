@@ -7,12 +7,13 @@
 	- Para este ejercicio vamos a hacer un fork y clonar el [repositorio con este grafo de logseq](https://github.com/atfornes/CursoSoftwareLibreUAM) que está alojado en github:
 		- Haz login en tu cuenta de github.
 		  logseq.order-list-type:: number
-		- Visita la web del repositorio y haz un fork
+		- Visita la web del repositorio y haz un fork.
 		  logseq.order-list-type:: number
 		  ![Screenshot_20260312_114043.png](../assets/Screenshot_20260312_114043_1773312065052_0.png)
 		- Clona el repositorio en tu equipo. para ello, escribe el comando `git clone ` seguido de la url de tu repositorio. 
 		  logseq.order-list-type:: number
 		  ![Screenshot_20260312_114650.png](../assets/Screenshot_20260312_114650_1773312421345_0.png)
+		- logseq.order-list-type:: number
 -
 - ## Habilitar git en Logseq
 	- En las opciones de configuración de Logseq, habilita **Git** y el **auto commit** para que los cambios se envíen automáticamente a vuestro repositorio en github.
