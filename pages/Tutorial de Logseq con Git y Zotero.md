@@ -16,3 +16,5 @@
 - ## Habilitar git en Logseq
 	- En las opciones de configuración de Logseq, habilita **Git** y el **auto commit** para que los cambios se envíen automáticamente a vuestro repositorio en github.
 	  ![Screenshot_20260312_115055.png](../assets/Screenshot_20260312_115055_1773312846264_0.png)
+	  Después, puedes poner un nombre y email para la configuración local del repositorio. No tienen que coincidir con los que usaste para registrarte en github ni ser emails reales_
+	-
