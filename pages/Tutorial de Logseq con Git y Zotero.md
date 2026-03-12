@@ -14,5 +14,5 @@
 		  ![Screenshot_20260312_114650.png](../assets/Screenshot_20260312_114650_1773312421345_0.png)
 -
 - ## Habilitar git en Logseq
--
-	-
+	- ![Screenshot_20260312_115055.png](../assets/Screenshot_20260312_115055_1773312846264_0.png)
+		-
