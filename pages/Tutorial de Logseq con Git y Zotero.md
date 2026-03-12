@@ -1,4 +1,5 @@
-## Clonar un repositorio
+# Git
+- ## Clonar un repositorio
 	- Lo primero que vamos a hacer es clonar un repositorio git para hospedar nuestro grafo de logseq. Tenemos varias opciones:
 		- Crear un nuevo repositorio y clonarlo en nuestro equipo.
 		- Clonar un repositorio existente donde tengamos permisos para escribir.
@@ -19,4 +20,6 @@
 	  Después, puedes poner un nombre y email para la configuración local del repositorio. _No tienen que coincidir con los que usaste para registrarte en github ni ser emails reales_
 	- Una vez hayas configurado estas opciones, los cambios que hagas se enviarán a github cada 60 segundos.
 -
-- ##
+- # Zotero
+	-
+-
