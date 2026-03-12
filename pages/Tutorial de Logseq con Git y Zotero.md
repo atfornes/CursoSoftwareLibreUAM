@@ -4,6 +4,9 @@
 		- Crear un nuevo repositorio y clonarlo en nuestro equipo.
 		- Clonar un repositorio existente donde tengamos permisos para escribir.
 		- Hacer un _fork_ de un repositorio existente y _clonarlo_.
+	- ### Crear un repositorio privado en Gitlab
+	-
+	- ### Clonar un repositorio existente para colaborar en equipo
 	- Para este ejercicio vamos a hacer un fork y clonar el [repositorio con este grafo de logseq](https://github.com/atfornes/CursoSoftwareLibreUAM) que está alojado en github:
 		- Haz login en tu cuenta de github.
 		  logseq.order-list-type:: number
