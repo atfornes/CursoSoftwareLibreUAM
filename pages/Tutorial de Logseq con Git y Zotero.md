@@ -1,5 +1,5 @@
 # Git
-- ## Clonar un repositorio
+- Para usar git en Logseq tenemos varias opciones:
 	- Lo primero que vamos a hacer es clonar un repositorio git para hospedar nuestro grafo de logseq. Tenemos varias opciones:
 		- Crear un nuevo repositorio y clonarlo en nuestro equipo.
 		- Clonar un repositorio existente donde tengamos permisos para escribir.
