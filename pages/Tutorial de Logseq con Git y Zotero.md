@@ -34,4 +34,5 @@
 	- [[@Why ‘open’ AI systems are actually closed, and why this matters]]
 	- Veremos en clase cómo poder anotar un PDF y sacar referencias vinculadas como esta:
 		- ((69b7ceaa-c03b-41ca-a8d1-1090df61fe82))
-	-
+-
+-
