@@ -32,6 +32,6 @@
 	  ![Screenshot_20260316_093908.png](../assets/Screenshot_20260316_093908_1773650489015_0.png)
 	- Una vez tenemos configurado Logseq, podemos añadir una referencia escribiendo `/Logseq` y ejecutando dicho comando. Se abrirá una búsqueda en nuestra biblioteca y la refencia quedará vinculada
 	- [[@Why ‘open’ AI systems are actually closed, and why this matters]]
-	-
-	- ((69b7ceaa-c03b-41ca-a8d1-1090df61fe82))
+	- Veremos en clase cómo poder anotar un PDF y sacar referencias vinculadas como esta:
+		- ((69b7ceaa-c03b-41ca-a8d1-1090df61fe82))
 	-
